@@ -16,7 +16,7 @@ body {
   .wheel {
     width: 100%;
     height: 100%;
-    background-color: #ff9800;
+    background-color: #8e0910;
     background-image: conic-gradient(from 0.25turn, #ff9800, #fff);
     border-radius: 50%;
     border: 5px solid #fff;
